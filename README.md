@@ -15,3 +15,12 @@ A hand-picked collection of public APIs that are free, easy to use, and perfect 
 | :--- | :--- | :--- | :--- |
 | **Open-Meteo** | Free weather forecast API | No | [Link](https://open-meteo.com) |
 
+### 🛠️ Utilities
+| API Name | Description | Auth | Link |
+| :--- | :--- | :--- | :--- |
+| **JSON Placeholder** | Fake data for testing | No | [Link](https://jsonplaceholder.typicode.com) |
+| **IP API** | IP Geolocation data | No | [Link](https://ip-api.com) |
+
+
+## ⭐ How to contribute?
+Contributions are welcome! If you know a great API, feel free to open a Pull Request.
