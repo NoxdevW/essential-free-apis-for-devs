@@ -21,6 +21,14 @@ A hand-picked collection of public APIs that are free, easy to use, and perfect 
 | **JSON Placeholder** | Fake data for testing | No | [Link](https://jsonplaceholder.typicode.com) |
 | **IP API** | IP Geolocation data | No | [Link](https://ip-api.com) |
 
+###  🖼️ Multimedia & Content
+| API Name | Description | Auth | Link |
+| :--- | :--- | :--- | :--- |
+| **Unsplash API** | Access to millions of high-quality HD photos | Key | [Link](https://unsplash.com/developers) |
+| **GIPHY API** | The world's largest library of animated GIFs | Key | [Link](https://developers.giphy.com/) |
+| **Picsum Photos** | 	Fast and easy random placeholder images | No | [Link](https://picsum.photos/) |
+| **Spotify Web API** | 	Get data about artists, albums, and tracks | Key | [Link](https://developer.spotify.com/) |
+
 
 ## ⭐ How to contribute?
 Contributions are welcome! If you know a great API, feel free to open a Pull Request.
