@@ -14,4 +14,4 @@ A hand-picked collection of public APIs that are free, easy to use, and perfect 
 | API Name | Description | Auth | Link |
 | :--- | :--- | :--- | :--- |
 | **Open-Meteo** | Free weather forecast API | No | [Link](https://open-meteo.com) |
-| **SpaceX** | SpaceX launches and data | No | [Link](
+
