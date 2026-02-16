@@ -29,6 +29,12 @@ A hand-picked collection of public APIs that are free, easy to use, and perfect 
 | **Picsum Photos** | 	Fast and easy random placeholder images | No | [Link](https://picsum.photos/) |
 | **Spotify Web API** | 	Get data about artists, albums, and tracks | Key | [Link](https://developer.spotify.com/) |
 
+### 🧠 AI & Tools
+| API Name | Description | Auth | Link |
+| :--- | :--- | :--- | :--- |
+| **Hugging Face** | 	Open-source ML models for NLP and vision | Key | [Link](https://huggingface.co/) |
+| **Githun Models** | 	Free access to LLMs like Llama or GPT-4o (trial) | Key | [Link](https://github.com/marketplace?type=models) |
+| **Dictionary API** |   	Word definitions, phonetics, and audio | Key | [Link](https://dictionaryapi.dev/)|
 
 ## ⭐ How to contribute?
 Contributions are welcome! If you know a great API, feel free to open a Pull Request.
